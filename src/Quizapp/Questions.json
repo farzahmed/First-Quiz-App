@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "question": "What is the capital of Pakistan?",
+      "options": ["Lahore", "Karachi", "Rahim yar khan", "Islamabad"],
+      "image" :  "img/1st.jpg",
+      "answer": "Islamabad"
+    },
+    {
+      "id": 2,
+      "question": "A program is usually a group of'?",
+      "options": ["Plans", "People and work", "Related projects", "Unrelated projects"],
+      "image" : "img/2nd.jpg",
+      "answer": "Related projects"
+    },
+    {
+      "id": 3,
+      "question": "Who is the father of Computers'?",
+      "options": ["James Gosling", " Charles Babbage", "Dennis Ritchie", "Bjarne Stroustrup"],
+      "image" : "img/3rd.jpg",
+      "answer": " Charles Babbage"
+    },
+    {
+      "id": 4,
+      "question": "First Nobel prize first awarded in ?",
+      "options": ["1789", "1969", "1958", "1949"],
+      "image": "img/4th.jpg",
+      "answer": "1969"
+    },
+    {
+      "id": 5,
+      "question": "Which year the United States declare independence?",
+      "options": ["1776", "1900", "1934", "1812"],
+      "image" : "img/5th.jpg",
+      "answer": "1776"
+    }
+   
+  ]
